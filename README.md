@@ -1,7 +1,5 @@
 <br clear="both">
 
-<h1 align="center">Hello Dev !!</h1>
-
 ###
 
 <br clear="both">
