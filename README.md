@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">HELLO DEV !!!</h1>
+<h1 align="center">Hello Dev !!</h1>
 
 ###
 
@@ -105,13 +105,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mangesh2904&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Mangesh2904&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=6&date_format=M%20j%5B,%20Y%5D&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mangesh2904/Mangesh2904/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mangesh2904/Mangesh2904/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mangesh2904/Mangesh2904/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
